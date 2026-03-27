@@ -51,8 +51,7 @@ Dataset Structure ScreenShot:
 <img width="801" height="25" alt="image" src="https://github.com/user-attachments/assets/1500c7f6-8ba8-4fbd-9dd6-327807a09b16" />
 
 Note:
-The datasets are not uploaded to this repository because:
-They are publicly available
-They are large in size
+The datasets are not uploaded to this repository because
+They are large in size and They are publicly available
 
 Users must download them from the provided links and place them in the data/ folder before running the project.
