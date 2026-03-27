@@ -1,4 +1,4 @@
-##Dataset 1: Ethereum Fraud Detection Dataset
+Dataset 1: Ethereum Fraud Detection Dataset
 
 Source:
 https://www.kaggle.com/datasets/vagifa/ethereum-frauddetection-dataset
@@ -23,6 +23,7 @@ Place the file inside the data/ folder
 
 Screenshot of dataset structure:
 <img width="4321" height="25" alt="image" src="https://github.com/user-attachments/assets/b229bbdf-b5c7-4ef2-a15b-4bd8936b8bb3" />
+
 
 Dataset 2: Bitcoin Heist Dataset
 
