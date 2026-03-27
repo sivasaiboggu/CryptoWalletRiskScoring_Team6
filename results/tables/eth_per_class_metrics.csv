@@ -1,0 +1,4 @@
+"RiskLevel","Precision","Recall","F1"
+"Class: Low",99.91,100,99.96
+"Class: Medium",99.23,98.6,98.91
+"Class: High",98.72,99.24,98.98

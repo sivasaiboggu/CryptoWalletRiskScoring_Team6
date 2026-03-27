@@ -1,0 +1,4 @@
+"Cluster","Total","Fraud","FraudPct","RiskLevel"
+1,222,2,0.9,"Low Risk"
+2,9304,2148,23.09,"High Risk"
+3,297,29,9.76,"Medium Risk"

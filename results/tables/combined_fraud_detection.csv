@@ -1,0 +1,7 @@
+"Risk","Total","Frauds","FraudRate","Crypto"
+"High Risk",2258,2150,95.22,"Ethereum"
+"Medium Risk",7341,28,0.38,"Ethereum"
+"Low Risk",224,1,0.45,"Ethereum"
+"High Risk",44492,32152,72.26,"Bitcoin"
+"Medium Risk",117248,9188,7.84,"Bitcoin"
+"Low Risk",3912,73,1.87,"Bitcoin"

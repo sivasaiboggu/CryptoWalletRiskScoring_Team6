@@ -1,0 +1,3 @@
+"Type","Avg.min.between.sent.tnx_Mean","Avg.min.between.sent.tnx_Median","Avg.min.between.received.tnx_Mean","Avg.min.between.received.tnx_Median","Time.Diff.between.first.and.last..Mins._Mean","Time.Diff.between.first.and.last..Mins._Median","Sent.tnx_Mean","Sent.tnx_Median","Received.Tnx_Mean","Received.Tnx_Median","Number.of.Created.Contracts_Mean","Number.of.Created.Contracts_Median","avg.val.received_Mean","avg.val.received_Median","avg.val.sent_Mean","avg.val.sent_Median","Count"
+"Fraud",3498.19,0,2819.67,82.07,55230.06,7545.43,5.17,1,21.44,3,0.08,0,6.06,0.5,7.09,0.5,2179
+"Legitimate",4624.97,22.75,8801.49,1407.03,262126.86,118038.98,99.28,3,155.22,5,0.15,0,72.52,3.75,46.95,2.31,7644

@@ -1,0 +1,77 @@
+================================================================
+  CRYPTO WALLET RISK SCORING SYSTEM - FINAL REPORT
+================================================================
+Generated: 2026-03-27 18:44:38.865217 
+
+PROJECT OVERVIEW
+This system analyzes cryptocurrency wallet transactions
+using data mining to identify risky wallets.
+Two real datasets: Ethereum Fraud Detection and
+Bitcoin Heist Ransomware Address Dataset.
+
+ETHEREUM DATASET
+Source: Kaggle Ethereum Fraud Detection Dataset
+Total records: 9841 
+Features used: 19 
+Fraud wallets: 2179 
+Legitimate wallets: 7644 
+
+Ethereum Model Accuracy:
+          Model Accuracy
+2 Random Forest    99.28
+5           KNN    96.23
+1 Decision Tree    93.96
+3           SVM    89.58
+4   Naive Bayes    74.89
+
+Ethereum Risk Distribution:
+
+  High Risk    Low Risk Medium Risk 
+       2258         224        7341 
+
+Ethereum Fraud Detection:
+         Risk Total Frauds FraudRate
+1   High Risk  2258   2150     95.22
+2 Medium Risk  7341     28      0.38
+3    Low Risk   224      1      0.45
+
+
+BITCOIN DATASET
+Source: UCI Bitcoin Heist Ransomware Address Dataset
+Original records: 2916697 
+Sampled records: 165652 
+Features used: 11 
+Ransomware addresses: 41413 
+Legitimate addresses: 124239 
+
+Bitcoin Model Accuracy:
+          Model Accuracy
+2 Random Forest    96.72
+5           KNN    91.40
+3           SVM    87.06
+1 Decision Tree    84.54
+4   Naive Bayes    75.16
+
+Bitcoin Risk Distribution:
+
+  High Risk    Low Risk Medium Risk 
+      44492        3912      117248 
+
+Bitcoin Fraud Detection:
+         Risk  Total Frauds FraudRate
+1   High Risk  44492  32152     72.26
+2 Medium Risk 117248   9188      7.84
+3    Low Risk   3912     73      1.87
+
+
+KEY FINDINGS
+1. System classifies wallets into Low, Medium, High risk
+2. Five models compared: DT, RF, SVM, NB, KNN
+3. High risk wallets have highest actual fraud rates
+4. Clustering reveals natural behavior groupings
+5. Feature importance shows key risk indicators
+6. Both cryptocurrencies show distinct risk patterns
+
+
+FILES LOCATION: C:/CryptoRiskCombined 
+================================================================

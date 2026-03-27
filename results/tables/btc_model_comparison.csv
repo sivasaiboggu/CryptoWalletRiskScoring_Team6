@@ -1,0 +1,6 @@
+"Model","Accuracy"
+"Random Forest",96.72
+"KNN",91.4
+"SVM",87.06
+"Decision Tree",84.54
+"Naive Bayes",75.16

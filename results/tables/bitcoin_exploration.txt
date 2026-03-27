@@ -1,0 +1,21 @@
+BITCOIN HEIST EXPLORATION
+Rows: 2916697  Columns: 10 
+Ransomware: 41413  Legitimate: 2875284 
+Columns: address, year, day, length, weight, count, looped, neighbors, income, label 
+
+Label Distribution:
+
+                      white             paduaCryptoWall        montrealCryptoLocker 
+                    2875284                       12390                        9315 
+            princetonCerber              princetonLocky            montrealCryptXXX 
+                       9223                        6625                        2419 
+          montrealNoobCrypt         montrealDMALockerv3           montrealDMALocker 
+                        483                         354                         251 
+             montrealSamSam montrealCryptoTorLocker2015       montrealGlobeImposter 
+                         62                          55                          55 
+            montrealGlobev3               montrealGlobe            montrealWannaCry 
+                         34                          32                          28 
+               montrealRazy                 montrealAPT               paduaKeRanger 
+                         13                          11                          10 
+             montrealFlyper           montrealXTPLocker 
+                          9                           8 
