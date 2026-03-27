@@ -127,97 +127,99 @@ Source: https://archive.ics.uci.edu/dataset/526/bitcoin+heist+ransomware+address
 ### Ethereum Analysis
 
 #### Fraud Distribution
-![Fraud Distribution](results/figures/eth_01_fraud_distribution.png)
+![Fraud Distribution](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/eth_01_fraud_distribution.png)
 
 #### Total Transactions Distribution
-![Total Transactions](results/figures/eth_02_total_transactions.png)
+![Total Transactions](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/eth_02_total_transactions.png)
 
 #### Average Value Sent
-![Average Value Sent](results/figures/eth_03_avg_value_sent.png)
+![Average Value Sent](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/eth_03_avg_value_sent.png)
 
 #### Ether Balance Comparison
-![Ether Balance](results/figures/eth_04_ether_balance.png)
+![Ether Balance](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/eth_04_ether_balance.png)
 
 #### Correlation Heatmap
-![Correlation Heatmap](results/figures/eth_05_correlation_heatmap.png)
+![Correlation Heatmap](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/eth_05_correlation_heatmap.png)
 
 #### Sent vs Received Transactions
-![Sent vs Received](results/figures/eth_06_sent_vs_received.png)
+![Sent vs Received](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/eth_06_sent_vs_received.png)
 
 #### K-Means Clustering (PCA)
-![KMeans PCA](results/figures/eth_08_kmeans_pca.png)
+![KMeans PCA](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/eth_08_kmeans_pca.png)
 
 #### Risk Distribution (Pie Chart)
-![Risk Distribution](results/figures/eth_09_risk_pie.png)
+![Risk Distribution](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/eth_09_risk_pie.png)
 
 #### Decision Tree Confusion Matrix
-![Decision Tree CM](results/figures/eth_10_dt_cm.png)
+![Decision Tree CM](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/eth_10_dt_cm.png)
 
 #### Random Forest Confusion Matrix
-![Random Forest CM](results/figures/eth_12_rf_cm.png)
+![Random Forest CM](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/eth_12_rf_cm.png)
 
 #### Model Comparison
-![Model Comparison](results/figures/eth_15_model_comparison.png)
+![Model Comparison](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/eth_15_model_comparison.png)
 
 #### Risk Score Distribution
-![Risk Score](results/figures/eth_17_risk_scores.png)
+![Risk Score](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/eth_17_risk_scores.png)
 
 #### Risk Score vs Actual Label
-![Risk vs Actual](results/figures/eth_18_risk_vs_actual.png)
+![Risk vs Actual](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/eth_18_risk_vs_actual.png)
 
 #### Fraud Rate by Risk Category
-![Fraud Rate](results/figures/eth_19_fraud_rate.png)
+![Fraud Rate](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/eth_19_fraud_rate.png)
 
+---
 
 ### Bitcoin Analysis
 
 #### Class Distribution
-![Bitcoin Distribution](results/figures/btc_01_class_distribution.png)
+![Bitcoin Distribution](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/btc_01_class_distribution.png)
 
 #### Income Distribution
-![Income Distribution](results/figures/btc_02_income_distribution.png)
+![Income Distribution](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/btc_02_income_distribution.png)
 
 #### Weight Boxplot
-![Weight Boxplot](results/figures/btc_03_weight_boxplot.png)
+![Weight Boxplot](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/btc_03_weight_boxplot.png)
 
 #### Neighbors vs Transaction Count
-![Neighbors vs Count](results/figures/btc_04_neighbors_vs_count.png)
+![Neighbors vs Count](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/btc_04_neighbors_vs_count.png)
 
 #### Correlation Heatmap
-![BTC Correlation](results/figures/btc_05_correlation_heatmap.png)
+![BTC Correlation](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/btc_05_correlation_heatmap.png)
 
 #### K-Means Clustering (PCA)
-![BTC PCA](results/figures/btc_07_kmeans_pca.png)
+![BTC PCA](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/btc_07_kmeans_pca.png)
 
 #### Decision Tree
-![Decision Tree](results/figures/btc_08_decision_tree.png)
+![Decision Tree](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/btc_08_decision_tree.png)
 
 #### Decision Tree Confusion Matrix
-![DT CM](results/figures/btc_09_dt_cm.png)
+![DT CM](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/btc_09_dt_cm.png)
 
 #### Model Comparison
-![BTC Models](results/figures/btc_11_model_comparison.png)
+![BTC Models](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/btc_11_model_comparison.png)
 
 #### Risk Score Distribution
-![BTC Risk Score](results/figures/btc_12_risk_scores.png)
+![BTC Risk Score](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/btc_12_risk_scores.png)
 
 #### Fraud Rate by Risk Category
-![BTC Fraud Rate](results/figures/btc_13_fraud_rate.png)
+![BTC Fraud Rate](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/btc_13_fraud_rate.png)
 
+---
 
 ### Combined Analysis
 
 #### Risk Distribution Comparison
-![Risk Comparison](results/figures/combined_01_risk_comparison.png)
+![Risk Comparison](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/combined_01_risk_comparison.png)
 
 #### Model Accuracy Comparison
-![Accuracy Comparison](results/figures/combined_02_accuracy.png)
+![Accuracy Comparison](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/combined_02_accuracy.png)
 
 #### Risk Score Density Comparison
-![Density Comparison](results/figures/combined_03_density.png)
+![Density Comparison](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/combined_03_density.png)
 
 #### Fraud Detection Comparison
-![Fraud Comparison](results/figures/combined_04_fraud_detection.png)
+![Fraud Comparison](https://raw.githubusercontent.com/sivasaiboggu/CryptoWalletRiskScoring_Team6/main/results/figures/combined_04_fraud_detection.png)
 ## How to Run the Project
 
 ### Step 1: Clone the Repository
