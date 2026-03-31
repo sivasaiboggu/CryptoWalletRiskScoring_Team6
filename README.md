@@ -32,7 +32,8 @@ Cryptocurrency transactions are large in volume and complex in structure. Fraudu
 
 Source: https://www.kaggle.com/datasets/vagifa/ethereum-frauddetection-dataset
 
-* Number of observations:9842 
+* Number of observations: 9842
+* Number of fraud observations: 2179
 * Number of variables: 50
 * Target: FLAG (0 = Legitimate, 1 = Fraud)
 
@@ -41,6 +42,7 @@ Source: https://www.kaggle.com/datasets/vagifa/ethereum-frauddetection-dataset
 Source: https://archive.ics.uci.edu/dataset/526/bitcoin+heist+ransomware+address+dataset
 
 * Number of observations: ~2.9 million (sampled subset used)
+* Number of fraud observations: 41413
 * Number of variables: 10
 * Target: label (white = Legitimate, others = Fraud)
 
